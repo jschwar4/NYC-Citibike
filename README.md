@@ -1,5 +1,8 @@
 # NYC-Citibike
 
+1. This analysis is designed to showcase the company's market position to potential investors, and to demonstrate the untapped markets that the business could grow into.
+
+2.
 Trip Duration
 <img width="1010" alt="Trip Duration" src="https://user-images.githubusercontent.com/90073490/147497027-685ded14-c868-4865-adbb-52e77688f8d7.png">
 The overwhelming majority of trips are short - under 20 minutes.
@@ -27,3 +30,5 @@ Men and women appear to have roughly equivalent rental patterns, with the majori
 Rental Times by Gender and User Type
 <img width="998" alt="Rental Times by Gender and User Type" src="https://user-images.githubusercontent.com/90073490/147497139-0a25c843-e003-4ae6-8182-d6ac2ba5290d.png">
 This data suggests that there are two distinct types of user - one that rents a bike every day to ride to work, and one that rents spontaneously on a weekend to get home from a bar.
+
+3. I would perform an analysis of a side-by-side comparison of stop and start locations based on user type to determine whether marketing in multiple areas as once makes sense. For investors, a breakdown of revenue per mile or profit per rental (whatever the cost structure is) would be advantageous to see where markets are most lucrative and why.
