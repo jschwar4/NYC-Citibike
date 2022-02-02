@@ -1,5 +1,7 @@
 # NYC-Citibike
 
+[link to dashboard](https://public.tableau.com/app/profile/jared.schwartz2886/viz/DU-Tableau_Challenge/Story1?publish=yes)
+
 1. This analysis is designed to showcase the company's market position to potential investors, and to demonstrate the untapped markets that the business could grow into.
 
 2.
